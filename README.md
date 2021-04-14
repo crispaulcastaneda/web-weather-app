@@ -2,7 +2,7 @@
 
 Using fetch API created a web-based weather application. Educational purpose only, implementing the theories from the technologies included on the topics.
 
-## Technologies
+## Technologies & API
 To be updated..
 
 ## Acknowledgement
